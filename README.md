@@ -24,3 +24,20 @@ Challenge 2
 
 This JavaScript program, `checkSpeed`, helps monitor and evaluate driver speed compliance. Based on a given speed, it calculates demerit points and provides feedback according to specific speed thresholds. This tool is useful for tracking whether a driver is within the speed limit, accruing points, or eligible for license suspension.
 
+Challenge 3
+Kenya Net Salary Calculator
+This program calculates an individual’s net salary in Kenya by taking inputs for basic salary and benefits. It computes the necessary deductions—PAYE, NHIF, and NSSF—according to Kenyan tax regulations, then calculates the net salary by subtracting these deductions from the gross salary.
+
+Key Calculations
+Gross Salary
+PAYE (Income Tax)
+NHIF Deduction
+NSSF Deduction
+Total Deductions
+Net Salary
+Usage
+The function calculateNetSalary takes:
+
+basicSalary: Monthly base income
+benefits: Additional benefits
+
